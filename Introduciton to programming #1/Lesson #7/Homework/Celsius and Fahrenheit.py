@@ -1,0 +1,12 @@
+file = open ('temps.txt', 'r')
+listic = list()
+for j in file:
+    fahr = round((float(j) * 1.8) + 32)
+    listic.append(fahr)
+    print (j.strip(), 'in cel is', fahr, 'in fahr')
+ma = max(listic)
+mi = min(listic)
+av = sum(listic) / len(listic)
+print ('max temperature is', ma)
+print ('min temperature is', mi)
+print ('average temperature is', av)

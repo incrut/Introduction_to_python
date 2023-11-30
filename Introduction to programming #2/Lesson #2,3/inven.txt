@@ -1,0 +1,6 @@
+rope: 1, torch: 6, gold coin: 42, dagger: 1, arrow: 12
+potion: 1, perfume: 1, elixir: 5, sword: 2, bronze shield: 5, bronze coin: 20
+magic water: 30, big fire: 5, sleeping bag: 5, sharp stone: 1, iron coin: 50
+bronze coin: 35, sword: 1, rope: 2, gold ticket: 4, diamond gloves: 3, arrow: 5
+bronze shield: 1, sleeping bag: 2, dagger: 1, rope: 3, iron coin: 5
+torch: 5, magic water: 3, bronze coin: 10, iron coin: 10, diamond gloves: 1, sword: 1

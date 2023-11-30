@@ -1,0 +1,15 @@
+Harju county;269.1
+Hiiu county;67.1
+Ida-Viru county;731.8
+Jõgeva county;319.8
+Järva county;369.0
+Lääne county;152.9
+Lääne-Viru county;492.2
+Põlva county;214.1
+Pärnu county;433.6
+Rapla county;356.2
+Saare county;54.8
+Tartu county;332.6
+Valga county;233.0
+Viljandi county;347.5
+Võru county;225.7
